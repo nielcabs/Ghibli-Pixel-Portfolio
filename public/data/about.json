@@ -1,0 +1,74 @@
+{
+  "email": "junielcabo@gmail.com",
+  "links": [
+    {
+      "url": "https://www.linkedin.com/in/junielcabo",
+      "title": "LinkedIn",
+      "icon": "LinkedInIcon"
+    },
+    {
+      "url": "https://github.com/nielcabs",
+      "title": "GitHub",
+      "icon": "GithubIcon"
+    }
+  ],
+  "cv": {
+    "file": "Juniel Cabo - Resume.pdf",
+    "title": "Download Resume",
+    "label": "Resume"
+  },
+  "description": [
+    "Frontend developer heavily influenced by storytelling, interactions, and UX. Addicted to music, movies, and games.",
+    "From Pampanga, Philippines."
+  ],
+  "subtitles": ["he/him"],
+  "skills": [
+    ["Web app architecture", "Game Maker", "Storytelling"],
+    ["Frontend", "UX/UI", "Backend"],
+    [
+      "JavaScript",
+      "CSS",
+      "HTML",
+      "React",
+      "Vue",
+      "Node",
+      "Canvas",
+      "ThreeJS",
+      "C#"
+    ],
+    ["Figma", "Photoshop", "Illustrator"]
+  ],
+  "experiences": [
+    {
+      "position": "Web Designer",
+      "company": "Ardent Digital Solution",
+      "time": "2023 - Present"
+    },
+    {
+      "position": "Junior Java Developer",
+      "company": "CDCI",
+      "time": "2019 - 2020"
+    },
+    {
+      "position": "Backend Developer",
+      "company": "Infinity AQW",
+      "time": "2019"
+    },
+    {
+      "position": "Freelancer",
+      "company": "Software Developer & Web Developer"
+    }
+  ],
+  "languages": {
+    "fluent": [
+      ["en-US", "English"],
+      ["fil", "Filipino"]
+    ],
+    "intermediate": [["es-ES", "English"]],
+    "basic": [
+      ["en-US", "English"],
+      ["fil", "Bisaya"]
+    ]
+  },
+  "busy": ["Code", "Eat", "Sleep", "Repeat"]
+}
